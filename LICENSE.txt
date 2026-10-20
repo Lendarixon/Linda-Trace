@@ -1,0 +1,13 @@
+Linda Trace — proprietary build.
+Copyright (c) 2026, project owner. All rights reserved.
+
+The software, including the application, its interface and the bundled
+stylometric resource, may be used only under a separate agreement with
+the owner. No part of this license grants rights to third-party texts
+used by the end user: the user is responsible for the rights to documents
+they analyse.
+
+Third-party components shipped inside the portable bundle are listed with
+their own licenses in THIRD_PARTY_NOTICES (see also reports/SOURCE_AUDIT_20261019.md).
+Training-data rights for the bundled n-gram resource are documented in
+reports/RIGHTS_REVIEW_20261019.md (public-domain works + CC0 contributions).
