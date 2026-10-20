@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.png" alt="Linda Trace" width="96"></p>
+<p align="center"><img src="app-icon.png" alt="Linda Trace" width="96"></p>
 
 # Linda Trace
 
